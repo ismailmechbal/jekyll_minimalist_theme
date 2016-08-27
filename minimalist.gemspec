@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "Minimalist"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["Ismail"]
   spec.email         = ["ismail@unik.ma"]
 
-  spec.summary       = %q{Minimalist Theme by Ismail Mechbal}
+  spec.summary       = %q{Minimalist Theme for Jekyll by Ismail Mechbal}
   spec.homepage      = "http://github.com/ismailmechbal/jekyll_minimalist_theme"
   spec.license       = "MIT"
 
