@@ -9,13 +9,13 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your Jekyll site's Gemfile:
 
 ```ruby
-gem "Minimalist"
+gem "minimalist"
 ```
 
 And add this line to your Jekyll site:
 
 ```yaml
-theme: Minimalist
+theme: minimalist
 ```
 
 And then execute:
@@ -24,7 +24,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install Minimalist
+    $ gem install minimalist
 
 ## Usage
 
